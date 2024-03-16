@@ -2,5 +2,5 @@
 
 
 # task 1
-Rus as:
+Run as:
 task1\task1.py' '-s' './task1/src' '-t' './task1/tgt'
